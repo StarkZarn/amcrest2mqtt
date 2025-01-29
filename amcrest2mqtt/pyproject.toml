@@ -22,7 +22,7 @@ requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.group.dev.dependencies]
-black = "^24.10.0"
+black = "^25.0.0"
 mypy = "^1.14.1"
 pytest = "^8.3.4"
 
